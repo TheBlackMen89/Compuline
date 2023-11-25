@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "692315424178",
+    "firebase_url": "https://tecnoshopf-default-rtdb.firebaseio.com",
+    "project_id": "tecnoshopf",
+    "storage_bucket": "tecnoshopf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692315424178:android:aeebd68eb1c566402010ab",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzzvQ8v8MqrYdO2Kl9iXgno1boO3kz0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
